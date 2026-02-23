@@ -34,6 +34,12 @@ export const TEAM_MEMBERS = [
         role: "Product Strategist",
         contribution: "Managed project scope and curated the foundational roadmap.",
         social: "#",
+    },
+    {
+        name: "SHASHI KIRAN",
+        role: "Contributor",
+        contribution: "Assisting with project tasks.",
+        social: "#",
     }
 ];
 
